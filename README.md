@@ -10,4 +10,4 @@
 
 工作时先更新资料卡，再形成节目提纲；每次结束前更新 `HANDOFF.md` 的游标和核实状态。不要把旧 AI 的赞同当成独立证据，也不要把多年合同规模直接算作某一年已确认收入。
 
-Git 保存的是这些可审阅的文字结果。跨机器继续工作还需要把本仓库推送到你控制的远端，再在另一台机器克隆；仅有本地仓库或 OneDrive 同步不能替代 Git 远端。
+Git 保存的是这些可审阅的文字结果。私有远端：`https://github.com/Jack31098/beyond-the-horizon`，默认分支 `main`。换机器时先在 GitHub 登录你的账户，再运行 `git clone https://github.com/Jack31098/beyond-the-horizon.git`，进入仓库后从 `HANDOFF.md` 接续。后续每次更新资料卡都应提交并推送；另一台机器开工前先拉取。OneDrive 同步不能替代 Git 远端。
