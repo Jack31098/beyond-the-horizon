@@ -14,6 +14,7 @@
 - [节目推进路线](ROADMAP.md)：先从 19 篇做候选聚类与三个试播提纲，再分批接收新对话。
 - [《战斗天使》与 ASI 治理首期方向](episodes/001-alita-asi-governance.md)：以原始长对话 02 为主、后续对话 01 为近期事件切口；两段分别 23、9 个用户回合，已核对主题脊柱和关键回合，仍待逐轮摘录及外部事实核查。
 - [Schulman、蒸馏与第三条路资料卡](notes/alita-schulman.md)：核对原对话第 2、8 回合及后来公开访谈；保留这段作为首期中段论证支点，严格分开离职事实、无证据的动机猜测与蒸馏反集中化的技术主张。
+- [Schulman 暂停时间动画分镜](notes/alita-schulman-storyboard.md)：主持人提到其名时让原对话冻结，另一个 AI 通过任意门介绍人物、去向和公开路线差异；用明确标记的主观政治漫画呈现 Amodei 的反派形象，而不伪造真实会面或离职原因。
 - [AMD 推理复盘试播候选](episodes/001-amd-ai-confidence.md)：旧 AI 为原始嘉宾，新 AI 从“时空门”做事后复盘；中段只在关键推断处打断，结尾完整复盘。
 - [AMD chiplet 与共享缓存资料卡](notes/amd-chiplet-cache.md)：记录技术发现型选题。CDNA 5 的共享缓存是公开架构；UDNA 游戏 GPU 的相似设计和市场低估论仍是待验证推演。
 - [个人 AI 代理与文明多样性后续候选](episodes/pilot-ai-agents-diversity.md)：用 2026 年 9 月个人代理的产品动向引出社会问题；此前不应排在《战斗天使》原始长对话之前。
