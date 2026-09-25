@@ -13,6 +13,7 @@
 - [AI 与文明多样性资料卡](notes/ai-diversity.md)：记录已讨论的关键区分，仍需补完整逐轮证据。
 - [节目推进路线](ROADMAP.md)：先从 19 篇做候选聚类与三个试播提纲，再分批接收新对话。
 - [第一期 AMD 试播提案](episodes/001-amd-ai-confidence.md)：旧 AI 为原始嘉宾，新 AI 从“时空门”做事后复盘；中段只在关键推断处打断，结尾完整复盘。
+- [AMD chiplet 与共享缓存资料卡](notes/amd-chiplet-cache.md)：记录技术发现型选题。CDNA 5 的共享缓存是公开架构；UDNA 游戏 GPU 的相似设计和市场低估论仍是待验证推演。
 
 ## 阅读状态与限制
 
@@ -22,7 +23,7 @@
 
 ## 下次工作游标
 
-1. 先把 [第一期试播提案](episodes/001-amd-ai-confidence.md) 变成 3–5 分钟纸面试播段落，精确标出 AMD 原始对话第 3–8 轮的停顿点与原句；补财报电话会和合同核查。随后再处理 AI 多样性、AI 眼镜、NVIDIA 成功成因三个候选。
+1. 并行比较两类试播：[AI 推理复盘](episodes/001-amd-ai-confidence.md) 和 [chiplet／共享缓存技术发现](notes/amd-chiplet-cache.md)。前者需标出 AMD KeyBanc 第 3–8 轮的停顿点并补财报、合同核查；后者需补成本模型、游戏负载与 UDNA 公开证据。先决定哪一题最适合开台，不把频道限定为纠错节目。
 2. 按 [索引](sources/conversations.md) 逐步补齐其余 18 篇资料卡；AMD 专题以 [现有资料卡](notes/amd-keybanc.md) 为底稿，继续核对财报电话会、合同、机柜部署和历史资料。
 3. 每篇资料卡写明：链接、读到第几轮、主持人的关键追问、AI 的修正或失误、可录桥段、事实核查状态。没核实的数字只标为旧对话中的推算。
 4. 私有 GitHub 远端已配置：`https://github.com/Jack31098/beyond-the-horizon`，分支 `main`。换机器后先克隆并阅读本文件；之后更新资料卡时提交、推送，避免只把进度留在聊天上下文。
