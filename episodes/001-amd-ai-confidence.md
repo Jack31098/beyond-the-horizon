@@ -1,6 +1,6 @@
-# 第一期试播提案：AMD 对话里，AI 是怎样越推越确信的？
+# 试播候选：AMD 对话里，AI 是怎样越推越确信的？
 
-状态：创意提案，尚非脚本或事实核查完稿。原始素材：[AMD KeyBanc 增量信息](https://chatgpt.com/share/6ab5bec2-6ee8-83e8-a0de-bccd2bc28607)（18 个用户回合）；背景见 [资料卡](../notes/amd-keybanc.md)。
+状态：后续试播候选，尚非脚本或事实核查完稿；首期编辑方向现为 [《战斗天使》与 ASI 治理](001-alita-asi-governance.md)。原始素材：[AMD KeyBanc 增量信息](https://chatgpt.com/share/6ab5bec2-6ee8-83e8-a0de-bccd2bc28607)（18 个用户回合）；背景见 [资料卡](../notes/amd-keybanc.md)。
 
 ## 核心问题
 

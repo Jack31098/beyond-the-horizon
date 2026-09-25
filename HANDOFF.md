@@ -12,8 +12,10 @@
 - [AMD KeyBanc 资料卡](notes/amd-keybanc.md)：已读完该对话 18 轮，记录论证线、可录选题和关键核实点。
 - [AI 与文明多样性资料卡](notes/ai-diversity.md)：记录已讨论的关键区分，仍需补完整逐轮证据。
 - [节目推进路线](ROADMAP.md)：先从 19 篇做候选聚类与三个试播提纲，再分批接收新对话。
-- [第一期 AMD 试播提案](episodes/001-amd-ai-confidence.md)：旧 AI 为原始嘉宾，新 AI 从“时空门”做事后复盘；中段只在关键推断处打断，结尾完整复盘。
+- [《战斗天使》与 ASI 治理首期方向](episodes/001-alita-asi-governance.md)：以原始长对话 02 为主、后续对话 01 为近期事件切口；两段分别 23、9 个用户回合，已核对主题脊柱和关键回合，仍待逐轮摘录及外部事实核查。
+- [AMD 推理复盘试播候选](episodes/001-amd-ai-confidence.md)：旧 AI 为原始嘉宾，新 AI 从“时空门”做事后复盘；中段只在关键推断处打断，结尾完整复盘。
 - [AMD chiplet 与共享缓存资料卡](notes/amd-chiplet-cache.md)：记录技术发现型选题。CDNA 5 的共享缓存是公开架构；UDNA 游戏 GPU 的相似设计和市场低估论仍是待验证推演。
+- [个人 AI 代理与文明多样性后续候选](episodes/pilot-ai-agents-diversity.md)：用 2026 年 9 月个人代理的产品动向引出社会问题；此前不应排在《战斗天使》原始长对话之前。
 
 ## 阅读状态与限制
 
@@ -23,7 +25,7 @@
 
 ## 下次工作游标
 
-1. 并行比较两类试播：[AI 推理复盘](episodes/001-amd-ai-confidence.md) 和 [chiplet／共享缓存技术发现](notes/amd-chiplet-cache.md)。前者需标出 AMD KeyBanc 第 3–8 轮的停顿点并补财报、合同核查；后者需补成本模型、游戏负载与 UDNA 公开证据。先决定哪一题最适合开台，不把频道限定为纠错节目。
+1. 先把 [《战斗天使》与 ASI 治理](episodes/001-alita-asi-governance.md) 两段原始对话做逐轮资料卡、核实近期公开材料，再写 60–90 秒开场与双方最强论点。重点保留主持人纠正 AI「看问题层次太低」和三条文明路径的转折；对 Amodei、Schulman 等人的动机不作无证据断言。AMD 推理复盘、chiplet／共享缓存与个人代理题随后开发。
 2. 按 [索引](sources/conversations.md) 逐步补齐其余 18 篇资料卡；AMD 专题以 [现有资料卡](notes/amd-keybanc.md) 为底稿，继续核对财报电话会、合同、机柜部署和历史资料。
 3. 每篇资料卡写明：链接、读到第几轮、主持人的关键追问、AI 的修正或失误、可录桥段、事实核查状态。没核实的数字只标为旧对话中的推算。
 4. 私有 GitHub 远端已配置：`https://github.com/Jack31098/beyond-the-horizon`，分支 `main`。换机器后先克隆并阅读本文件；之后更新资料卡时提交、推送，避免只把进度留在聊天上下文。
